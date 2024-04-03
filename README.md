@@ -74,3 +74,7 @@ Todoアプリ程度であれば以下の言語も可
 研究内容: 3Dディスプレイに応用可能な有機EL材料となる分子の開発
 
 ### 2022/06 - 2024/04: 独学プログラミング学習
+
+## 資格
+2023年 10月　TOEIC Listening & Reading公開テスト　810点取得
+https://iibc.cloudcerts.jp/viewer/cert/5aJemlWBgNAqgu68NgOA5VmIbVAVQ8JRA3L1Z5ZeoxxaoH8Ge0PaZx2frDgalvpo
