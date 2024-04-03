@@ -78,3 +78,6 @@ Todoアプリ程度であれば以下の言語も可
 ## 資格
 2023年 10月　TOEIC Listening & Reading公開テスト　810点取得
 https://iibc.cloudcerts.jp/viewer/cert/5aJemlWBgNAqgu68NgOA5VmIbVAVQ8JRA3L1Z5ZeoxxaoH8Ge0PaZx2frDgalvpo
+
+## その他参考
+1. [面談・面接の情報共有・確認事項](https://github.com/shimota-dev/Interview-inquiries)
